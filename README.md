@@ -270,7 +270,7 @@ laowang-sub-converter/
 | **Vercel** | [![Deploy](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tony-wang1990/laowang-sub-converter) | 推荐，速度快 |
 | **Netlify** | [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tony-wang1990/laowang-sub-converter) | 免费额度高 |
 | **Cloudflare Workers** | 见下方教程 | 全球边缘，超快 |
-https://deploy.workers.cloudflare.com/?url=[https://github.com/tony-wang1990/laowang-sub-converter](https://github.com/fu5502/sub-converter)
+[https://deploy.workers.cloudflare.com/?url=[[https://github.com/tony-wang1990/laowang-sub-converter](https://github.com/fu5502/sub-converter)](https://deploy.workers.cloudflare.com/?url=https://github.com/fu5502/sub-converter)](https://deploy.workers.cloudflare.com/?url=https://github.com/fu5502/sub-converter)
 ### Cloudflare Workers 部署
 
 1. **Fork 本仓库**到您的 GitHub 账号
